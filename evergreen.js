@@ -1833,7 +1833,7 @@ function initialize_popovers_and_modals() {
             </h2>
             <h4>New Tab</h4>
             <h4>Version ${version}</h4>
-            <h5>Created by <a href="https://reticivis.net/">Reticivis</a></h5>`
+            <h5>Created by <a href="https://machineonamission.me/">Machine on a Mission</a></h5>`
         })
     });
 
