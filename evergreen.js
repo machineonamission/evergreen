@@ -446,7 +446,7 @@ function change_background() {
                 qs("#attribution").innerHTML = `<p><i class="fa-solid fa-message-image"></i> <a href="${r["links"]["html"]}?utm_source=evergreen_new_tab_for_chrome&utm_medium=referral">Photo</a> by <a href="${r["user"]["links"]["html"]}?utm_source=evergreen_new_tab_for_chrome&utm_medium=referral">${r["user"]["name"]}</a> on <a href="https://unsplash.com/?utm_source=evergreen_new_tab_for_chrome&utm_medium=referral">Unsplash</a></p>`;
 
                 // api requires hotlinking
-                document.querySelector("#bga").setAttribute("href", r["links"]["html"] + "?utm_source=evergreen_new_tab_for_chrome&utm_medium=referral")
+                // document.querySelector("#bga").setAttribute("href", r["links"]["html"] + "?utm_source=evergreen_new_tab_for_chrome&utm_medium=referral")
             });
             chrome.storage.local.set({
                 bgimage: url, lastbgrefresh: new Date().getTime() / 1000

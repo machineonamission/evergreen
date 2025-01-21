@@ -3,7 +3,7 @@
 ## A minimalistic, functional, and beautiful new tab extension
 
 <a href="https://chrome.google.com/webstore/detail/evergreen-new-tab/hidneipdiamkkokccepfbfchfdhlipmn">
-  <img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/tbyBjqi7Zu733AAKA5n4.png" alt="Get for Chrome" height="60px">
+  <img src="https://developer.chrome.com/static/docs/webstore/branding/image/HRs9MPufa1J1h5glNhut.png" alt="Get for Chrome" height="60px">
 </a>  
 <a href="https://addons.mozilla.org/en-US/firefox/addon/evergreen-new-tab/">
   <img src="https://blog.mozilla.org/addons/files/2015/11/get-the-addon.png" alt="Get for Firefox" height="60px">

@@ -8,7 +8,7 @@
   "name": "Evergreen New Tab",
   "short_name": "Evergreen",
   "description": "A minimalistic, functional, and beautiful new tab extension.",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "permissions": [
     "storage",
     "geolocation"
