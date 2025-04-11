@@ -234,11 +234,6 @@ a.popper:focus {
     border-radius: 15px !important;
 }
 
-.form-control, .form-control:focus {
-    background: var(--bs-secondary);
-    color: #ccc;
-}
-
 #tooltipmargin {
     position: absolute;
     left: 0;
@@ -296,8 +291,4 @@ a.popper:focus {
 
 .whitelink:hover {
     color: lightgray;
-}
-
-.form-control:disabled {
-    background-color: #242424;
 }

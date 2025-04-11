@@ -1348,6 +1348,8 @@ function initweatherchart() {
         }
     }
 
+    Chart.defaults.font.family = `"Atkinson Hyperlegible Next", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"`;
+
     weather_chart_hourly = new Chart(chart_hourly.getContext('2d'), {
         type: 'line', data: {
             datasets: [{
