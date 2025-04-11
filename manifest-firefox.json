@@ -17,6 +17,9 @@
   "chrome_url_overrides": {
     "newtab": "newtab.html"
   },
+  "chrome_settings_overrides": {
+    "homepage": "newtab.html"
+  },
   "icons": {
     "32": "icons/evergreen32.png",
     "128": "icons/evergreen128.png",
